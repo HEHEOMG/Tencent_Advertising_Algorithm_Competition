@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../AI_ToolBox_for_LLS/.idea/AI_ToolBox_for_LLS.iml" filepath="$PROJECT_DIR$/../../AI_ToolBox_for_LLS/.idea/AI_ToolBox_for_LLS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tencent_Advertising_Algorithm_Competition.iml" filepath="$PROJECT_DIR$/.idea/Tencent_Advertising_Algorithm_Competition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../visual_fashion/.idea/visual_fashion.iml" filepath="$PROJECT_DIR$/../../../visual_fashion/.idea/visual_fashion.iml" />
+    </modules>
+  </component>
+</project>
